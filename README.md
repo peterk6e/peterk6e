@@ -1,6 +1,6 @@
 ### Hi 😉
 
-I am a curious and enthusiastic developer. I have been working in startups for the last few years at different positions, from Junior developer to Project Manager.
+I am a curious and enthusiastic front-end developer. I have been working in startups for the last few years at different positions, from Junior developer to Project Manager.
 I have good knowledge in JS, HTML/CSS, and standrd knowledge in Git, servers & Databases
 
 - 🌱 I’m currently working on:   
