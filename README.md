@@ -16,7 +16,6 @@ I have good knowledge in JS, HTML/CSS, and standrd knowledge in Git, servers & D
   - improve my overall skills to write better code
   - learn Vue.js
 
-- ✨ Here are some [Mini Demo Projects](https://github.com/peterk6e/Projects)
-- and a [chat app](https://github.com/peterk6e/client-for-chat-app)
+- ✨ Here are some [Mini Demo Projects](https://github.com/peterk6e/Projects) and a [chat app](https://github.com/peterk6e/client-for-chat-app)
 
 - 📫 How to reach me: pierrecass77@gmail.com or [LinkedIn]( https://www.linkedin.com/in/pierre-cassier-76b226180) 😊
