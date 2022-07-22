@@ -1,7 +1,6 @@
 ### Hi 😉
 
-I am a curious and enthusiastic front-end developer. I have been working in startups for the last few years at different positions, from Junior developer to Project Manager.
-I have good knowledge in JS, HTML/CSS, and standrd knowledge in Git, servers & Databases
+I am a curious and enthusiastic front-end developer. I am always excited to work on challenging projects and learn new skills & technologies. 
 
 - 🌱 I’m currently working on:   
   - React.js
