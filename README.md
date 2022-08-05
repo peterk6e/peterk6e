@@ -15,6 +15,9 @@ I am a curious and enthusiastic front-end developer. I am always excited to work
   - improve my overall skills to write better code
   - learn Vue.js
 
-- ✨ Here are some demo projects : [Mini Projects](https://github.com/peterk6e/Projects) | [chat app](https://github.com/peterk6e/client-for-chat-app) | [e-commerce app](https://github.com/peterk6e/ecommerce)
+- ✨ Here are some demo projects : 
+  - [mern memories](https://github.com/peterk6e/mern-memories)
+  - [chat app](https://github.com/peterk6e/client-for-chat-app)
+  - [e-commerce app](https://github.com/peterk6e/ecommerce)
 
 - 📫 How to reach me: pierrecass77@gmail.com or [LinkedIn]( https://www.linkedin.com/in/pierre-cassier-76b226180) 😊
